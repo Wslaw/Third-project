@@ -7,10 +7,10 @@ export const App = () => {
         justifyContent: 'center',
         alignItems: 'center',
         fontSize: 40,
-        color: '#010101',
+        color: '#010101'
       }}
     >
-      Тут буде третій проект, коли буде готовий
+      React homework template
     </div>
   );
 };
